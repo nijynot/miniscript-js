@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "CC=clang-8 wasm-pack build --target nodejs",
+    "build": "CC=clang-8 wasm-pack build --target nodejs"
   },
   "author": "nijynot <nijynot@gmail.com>",
   "license": "MIT"
